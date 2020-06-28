@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="13927fca-f54d-4136-aba2-3b9443bb4a25" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593332598260</updated>
-      <workItem from="1593332604471" duration="3603000" />
+      <workItem from="1593332604471" duration="4585000" />
     </task>
     <servers />
   </component>
@@ -70,6 +69,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1107" y="233" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593333142865" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1593336431744">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1593336431744" />
     <state width="903" height="257" key="GridCell.Tab.0.bottom" timestamp="1593334068012">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
